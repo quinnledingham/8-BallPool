@@ -1,6 +1,7 @@
 # 8-Ball Pool
 
 8-Ball Pool game written in C#
+  
 ![gameplay image](https://github.com/quinnledingham/8-Ball-Pool/blob/master/Images/gameplay.PNG?raw=true)
 
 My first time implementing  
